@@ -165,4 +165,5 @@ plugins:
 5. Docker.
 6. owasp dependency check...
 
+Acknowledgement: Project guided by k21 academy
 
